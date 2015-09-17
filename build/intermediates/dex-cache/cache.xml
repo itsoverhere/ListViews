@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\pre-dexed\debug\classes-ded87cf040593ce3eadcddf1356a5285d4348154.jar" />
+    </item>
+    <item
+        jar="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\pre-dexed\debug\classes-ca6c942b7c9d404b540c8f9e45b0779495834bbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\g301.G301NET\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c64d9cd1e272e06a59215791eefe8a95f12008b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\g301.G301NET\Downloads\List\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-251de6740a81270a8f6a662b0433f972f2f1dc01.jar" />
+    </item>
+
+</items>
